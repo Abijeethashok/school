@@ -1,0 +1,13 @@
+*{border:solid}
+.body1{
+    text-align: center;
+}
+
+body{
+    background-color:greenyellow;
+}
+
+.img{
+    display : flex ;
+    justify-content: center;
+}
